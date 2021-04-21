@@ -7,3 +7,5 @@
 - 📫 How to reach me: check out my portfolio site
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: many otters have a favorite rock that they keep with them at all times
+
+Drop a line and lme know what you think of my projects below!
