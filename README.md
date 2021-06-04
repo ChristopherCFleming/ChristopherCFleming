@@ -8,7 +8,7 @@
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: otters have a favorite rock that they keep with them at all times
 
-Drop a line and lme know what you think of my projects below!
+Drop a line and let me know what you think of my projects below!
 
 
 <h3 align="left">Languages and Tools:</h3>
