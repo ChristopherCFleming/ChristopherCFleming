@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on an app to increase civic engagement
 - 🌱 I’m currently learning Python
-- 🤔 I’m looking for a Jr Software Engineer position
+- 🤔 I’m looking for a Software Engineer position
 - 💬 Ask me about life in Beijing
 - 📫 How to reach me: check out my portfolio site (pinned Below)
 - 😄 Pronouns: He/Him/His
