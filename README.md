@@ -16,6 +16,6 @@ Drop a line and let me know what you think of my projects below!
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=christophercfleming&show_icons=true&locale=en" alt="christophercfleming" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christophercfleming&" alt="christophercfleming" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christophercfleming&" alt="christophercfleming" /></p> -->
 
 
