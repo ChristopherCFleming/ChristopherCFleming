@@ -1,8 +1,8 @@
 ### Welcome 👋
 
-- 🔭 I’m currently working on an app to increase civic engagement
+- 🔭 I volunteer at Apache Superset (Preset) as a community contributor
 - 🌱 I’m currently learning Python
-- 🤔 I’m looking for a Software Engineer position
+- 🤔 I’m looking for a Software Engineering position
 - 💬 Ask me about life in Beijing
 - 📫 How to reach me: check out my portfolio site (pinned Below)
 - 😄 Pronouns: He/Him/His
