@@ -1,7 +1,7 @@
 ### Welcome 👋
 
 - 🔭 I work at DigiDems (Zinc Collective) as a software engineer
-- 🌱 I’m currently learning more DSA through Structy.net
+- 🌱 I’m currently learning more DSA
 - 🤔 I’m looking for a Software Engineering position
 - 💬 Ask me about life in Beijing
 - 📫 How to reach me: check out my portfolio site (pinned Below)
