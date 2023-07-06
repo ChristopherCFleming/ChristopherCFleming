@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-- 🔭 I finished a contract at DigiDems (Zinc Collective) as a software engineer
+- 🔭 I freelance to help Democrats win elections as a software engineer
 - 🌱 I’m currently learning more DSA
 - 🤔 I’m looking for a Software Engineering position
 - 💬 Ask me about life in Beijing
