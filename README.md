@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-- 🔭 I freelance to help Democrats win elections as a software engineer
+- 🔭 I freelance as a software engineer
 - 🌱 I’m currently learning Java 
 - 🤔 I’m looking for a Software Engineering position
 - 💬 Ask me about life in Beijing
