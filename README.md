@@ -2,7 +2,6 @@
 
 - 🔭 I freelance as a software engineer
 - 🌱 I’m currently learning Java 
-- 🤔 I’m looking for a Software Engineering position
 - 💬 Ask me about life in Beijing
 - 📫 How to reach me: check out my portfolio site (pinned Below)
 - 😄 Pronouns: He/Him/His
