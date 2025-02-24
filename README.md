@@ -1,6 +1,5 @@
 ### Welcome 👋
 
-- 🌱 I’m currently learning Java 
 - 💬 Ask me about life in Beijing
 - 📫 How to reach me: check out my portfolio site (pinned Below)
 - 😄 Pronouns: He/Him/His
