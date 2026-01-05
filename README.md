@@ -1,9 +1,10 @@
 ### Welcome 👋
 
-- 💬 Ask me about life in Beijing
-- 📫 How to reach me: check out my portfolio site (pinned Below)
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: otters have a favorite rock that they keep with them at all times
+- 💬 Ask me about: prefab tiny homes
+- ⚡ Fun fact: Oxford is older than the Aztec Empire
+- 📫 How to reach me: check out my portfolio site pinned below
+
 
 Drop a line and let me know what you think of my projects below!
 
