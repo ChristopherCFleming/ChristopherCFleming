@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-- 😄 Pronouns: He/Him/His
+- 😄 Pronouns: He/Him
 - 💬 Ask me about: prefab tiny homes
 - ⚡ Fun fact: Oxford is older than the Aztec Empire
 - 📫 How to reach me: check out my portfolio site pinned below
