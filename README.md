@@ -6,7 +6,7 @@
 - 📫 How to reach me: check out my portfolio site pinned below
 
 
-Drop a line and let me know what you think of my projects below!
+Drop by and say hi!
 
 
 <h3 align="center">Languages and Tools</h3>
